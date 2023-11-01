@@ -23,7 +23,11 @@ A relentless explorer of the digital frontier and a Computer Science student wit
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" />
 
 <br />
+<h3 align="left">🤝Connect with me:</h3>
+<p align="left">
+<img align="left" alt="Linkedln" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
 
+</p>
 
 
 
