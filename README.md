@@ -1,8 +1,14 @@
-#  ☕Hania Seif
 
-**An Aspiring FullStack Developer**
+<h1 align="center">Hi 👋, I'm Hania Seif</h1>
+<h3 align="center">An Aspiring FullStack Developer</h3>
 
-A relentless explorer of the digital frontier and a Computer Science student with an insatiable curiosity. With a dream of becoming a Full Stack Developer, I embark on a quest to blend artistry with algorithms, crafting immersive web experiences. I see code not as text but as a canvas where I paint my ideas, turning lines into vibrant websites and applications. Join me on this captivating journey through the ever-shifting landscape of web development, where imagination knows no bounds.
+- 🔭 I’m currently working on **GitHub Clone**
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Python, Java, Flask**
+
+- 📫 How to reach me **haniacs05@gmail.com**
 
   
 
@@ -21,16 +27,13 @@ A relentless explorer of the digital frontier and a Computer Science student wit
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" />
-### 📊 Stats
-
-![Hania's GitHub stats](https://github-readme-stats.vercel.app/api?username=hania-cs&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-
 
 <br />
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hania-cs&show_icons=true&locale=en&layout=compact" alt="hania-cs" /></p>
+
+
+
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">
 <img align="left" alt="Linkedln" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
