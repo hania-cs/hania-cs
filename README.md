@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hania Seif</h1>
 <h3 align="left">FullStack Developer to be</h3>
 
-- 🔭 I’m currently working on an **E-commerce Website**
+- 🔭 I’m currently working on an **my senior project**
 
 - 🌱 Learning **React**
 
