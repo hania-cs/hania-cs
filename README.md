@@ -33,7 +33,7 @@
 
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">
-[<img align="left" alt="LinkedIn" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>](https://www.linkedin.com/in/hania-seif/)
+[<img align="left" alt="LinkedIn" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" href="(https://www.linkedin.com/in/hania-seif/)"/>]
 
 </p>
 
