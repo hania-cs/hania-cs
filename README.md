@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hania Seif</h1>
-<h3 align="left">FullStack Developer to be</h3>
+<h3 align="left">Frontend Developer to be</h3>
 
 - 🔭 I’m currently working on **my senior project**
 
