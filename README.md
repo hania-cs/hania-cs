@@ -32,8 +32,7 @@
 
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
-" alt="LinkedIn" /> :  Hania Seif--https://www.linkedin.com/in/hania-seif/
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://tse1.mm.bing.net/th?id=OIP.93lgxRi9ZCjbZcUXglM-gwHaHa&pid=Api&rs=1&c=1&qlt=95&h=220" alt="LinkedIn" /> :  Hania Seif--https://www.linkedin.com/in/hania-seif/
 
 </p>
 
