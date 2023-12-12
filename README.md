@@ -33,7 +33,7 @@
 
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">
-[![LinkedIn]("https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg")](https://www.linkedin.com/in/hania-seif/)
+LinkedIn: Hania Seif--https://www.linkedin.com/in/hania-seif/
 
 </p>
 
