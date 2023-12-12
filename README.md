@@ -30,10 +30,10 @@
 
 
 
-
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">
-LinkedIn: Hania Seif--https://www.linkedin.com/in/hania-seif/
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
+" alt="LinkedIn" /> :  Hania Seif--https://www.linkedin.com/in/hania-seif/
 
 </p>
 
