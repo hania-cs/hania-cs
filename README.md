@@ -6,7 +6,7 @@
 
 - 🌱 Learning **React**
 
-- 💬 Ask me about **Python, Java, Flask**
+- 💬 Ask me about **HTML | CSS | JavaScript**
 
 - 📫 How to reach me **haniacs05@gmail.com**
 	  
