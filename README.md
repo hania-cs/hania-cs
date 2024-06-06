@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://hania-cs.github.io/Portfolio/](https://hania-cs.github.io/Portfolio/)
 
+- 💬 Ask me about **Frontend Development**
+
 - 📫 How to reach me **haniacs05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
