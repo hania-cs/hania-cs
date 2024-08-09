@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hania</h1>
-<h3 align="center">A passionate frontend developer from Lebanon</h3>
+<h3 align="center">A passionate software developer from Lebanon</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://hania-cs.github.io/Portfolio/](https://hania-cs.github.io/Portfolio/)
 
