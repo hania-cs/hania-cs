@@ -29,6 +29,7 @@ Outside of my day-to-day dev work, I run **[Vertexa Digital Studios](https://www
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -36,7 +37,7 @@ Outside of my day-to-day dev work, I run **[Vertexa Digital Studios](https://www
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **CMS & Tools**
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -55,9 +56,12 @@ Outside of my day-to-day dev work, I run **[Vertexa Digital Studios](https://www
 
 | Role | Company | Period |
 |------|---------|--------|
-| Founder | Vertexa Digital Studios | Present |
 | UI/UX Designer | matensa (Contract) | Feb 2026 – Present |
 | Full Stack Developer | Connect Services SARL | Nov 2025 – Present |
+| WordPress Developer | Self-Employed (Remote) | Apr 2025 – Mar 2026 |
+| Web Developer Trainee | OctoVertex | Dec 2024 – May 2025 |
+| WordPress Developer | Sheefra | May 2024 – May 2025 |
+| Founder | Vertexa Digital Studios | Present |
 
 ---
 
@@ -66,6 +70,7 @@ Outside of my day-to-day dev work, I run **[Vertexa Digital Studios](https://www
 - 🏫 **Universitat de Lleida** — Computer Engineering (ERASMUS+ Program, 2024–2025)
 - 🎓 **Modern University for Business and Science** — BSc Computer Science | GPA: 3.74/4.0 *(High Distinction)*
 - 📜 **CS50x** — Harvard University (Dec 2023)
+- 📜 **ICDL** — International Computer Drivers Licence
 
 ---
 
@@ -76,21 +81,21 @@ Outside of my day-to-day dev work, I run **[Vertexa Digital Studios](https://www
 
 Transformed an Airbnb listing into a fully branded digital experience. Showcases every room with photography sections, highlights the guesthouse experience and amenities, and guides visitors directly to book.
 
-🔗 **[View Live Site](https://rihabsguesthouse.vercel.app)**
+🔗 **[View Live Site](https://lnkd.in/d_tqabYY)**
 
 ---
 
 ### 🏢 Hammad General Trading & Services — Gulf / Lebanon
 A Gulf-based company expanding into Lebanon had no digital presence. Built a full business website from scratch with a clean credibility-first design, clear services overview, mobile-responsive layout, and an admin panel for managing projects independently — no developer needed.
 
-🔗 **[View Live Site](https://hammadgeneraltrading.vercel.app/)**
+🔗 **[View Live Site](https://lnkd.in/dxtt4p5b)**
 
 ---
 
 ### 🏋️ Sculpitup Gym
 A gym running entirely through DMs and phone calls. Delivered a full website showcasing the gym, classes, and trainers, an online booking system for instant spot reservations, and an admin panel to manage all bookings.
 
-🔗 **[View Live Site](https://www.sculpitupfitnessboutique.com/)**
+🔗 **[View Live Site](https://lnkd.in/e5ntSmRF)**
 
 ---
 
@@ -108,8 +113,6 @@ A recruitment company's website that wasn't doing its job. Rebuilt from scratch 
 
 ### 🤝 B2B Partnership — Connect Services SARL
 A clean agency-to-agency partnership where Connect Services SARL brings client relationships and Vertexa brings the build. Every website ships under the Vertexa badge, with full quality and accountability.
-
-🔗 **[View Live Site](https://connect-services.me)**
 
 ---
 
